@@ -109,3 +109,17 @@ p {
             url("intro_flower.png") top rightright (653px 100%) no-repeat;  
     ...  
 } 
+    #content {  
+        display: table;  
+    }  
+      
+        #mainContent {  
+            display: table-cell;  
+            width: 620px;  
+            padding-right: 22px;  
+        }  
+      
+        aside {  
+            display: table-cell;  
+            width: 300px;  
+        }  

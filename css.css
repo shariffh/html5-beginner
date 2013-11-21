@@ -135,3 +135,16 @@ p {
     .blogPost header {  
         column-span: all;  
     }
+    .blogPost img {  
+    margin: 22px 0;  
+    box-shadow: 3px 3px 7px #777;  
+}
+    .blogPost div {  
+        /* Column-count not implemented yet */  
+        -moz-column-count: 2;  
+        -webkit-column-count: 2;  
+      
+        /* Column-gap not implemented yet */  
+        -moz-column-gap: 22px;  
+        -webkit-column-gap: 22px;  
+    }  

@@ -166,3 +166,6 @@ p {
         -moz-border-radius: 11px;  
         -webkit-border-radius: 11px;  
     }  
+    #footer {  
+        background-color: #3f3f3f;  
+    }

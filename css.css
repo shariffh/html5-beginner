@@ -202,8 +202,103 @@ p {
     padding:10px;
     
 }
-#footer {
-    clear:both;
-    padding:10px;
-    background:#ff9;
+#sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+#sidebar li {
+  
+  float: left;
+  height: 25px;
+  margin: 1px 0;
+  padding: 0;
+  width: 310px;
+}
+ 
+#sidebar li a {
+  float: left;
+  font: normal 12px Verdana, Geneva, sans-serif;
+  padding: 2px 0 0 19px;
+  text-decoration: none;
+}
+ 
+#sidebar li:hover {
+  background: #5fa4c5;
+}
+#sidebar1 ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+#sidebar1 li {
+  
+  float: left;
+  height: 25px;
+  margin: 1px 0;
+  padding: 0;
+  width: 310px;
+}
+ 
+#sidebar1 li a {
+  float: left;
+  font: normal 12px Verdana, Geneva, sans-serif;
+  padding: 2px 0 0 19px;
+  text-decoration: none;
+}
+ 
+#sidebar1 li:hover {
+  background: #5fa4c5;
+}
+#content-2-1 ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+#content-2-1 li {
+  
+  float: left;
+  height: 25px;
+  margin: 1px 0;
+  padding: 0;
+  width: 250px;
+}
+ 
+#content-2-1 li a {
+  float: left;
+  font: normal 12px Verdana, Geneva, sans-serif;
+  padding: 2px 0 0 19px;
+  text-decoration: none;
+}
+ 
+#content-2-2 li:hover {
+  background: #5fa4c5;
+}
+#content-2-2 ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+#content-2-2 li {
+  
+  float: left;
+  height: 25px;
+  margin: 1px 0;
+  padding: 0;
+  width: 245px;
+}
+ 
+#content-2-2 li a {
+  float: left;
+  font: normal 12px Verdana, Geneva, sans-serif;
+  padding: 2px 0 0 19px;
+  text-decoration: none;
+}
+ 
+#content-2-2 li:hover {
+  background: #5fa4c5;
 }

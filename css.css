@@ -33,9 +33,10 @@ p {
 }
     nav {  
         position: absolute;  
-        left: 0;  
-        width: 100%;  
-        background: url("nav_background");  
+        left: 15%;
+        right: 15% ; 
+        
+        background-color: #dfdfdf;  
     }  
         nav ul {  
         margin: 0 auto;  
@@ -74,7 +75,7 @@ p {
                 #intro {  
         margin-top: 66px;  
         padding: 44px;  
-        background: #467612 url("intro_background.png") repeat-x;  
+        background: #467612 url("intro_flower.png") repeat-x;  
         background-size: 100%;  
         border-radius: 22px;  
     }  
@@ -105,7 +106,7 @@ p {
     }  
     #intro {  
     ...  
-    background: #467612 url("intro_background.png") top left (287px 100%) repeat-x,  
+    background: #467612 url("intro_flower.png") top left (287px 100%) repeat-x,  
             url("intro_flower.png") top rightright (653px 100%) no-repeat;  
     ...  
 } 
@@ -167,5 +168,5 @@ p {
         -webkit-border-radius: 11px;  
     }  
     #footer {  
-        background-color: #3f3f3f;  
+        background-color: #D3E3DD;  
     }
